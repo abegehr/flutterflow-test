@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:test_app/home_page/home_page_widget.dart';
 
 void main() {
-  print("This is a manual test :)");
   runApp(MyApp());
 }
 
